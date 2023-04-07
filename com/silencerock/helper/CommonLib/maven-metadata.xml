@@ -3,10 +3,11 @@
   <groupId>com.silencerock.helper</groupId>
   <artifactId>CommonLib</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0-tv</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0-tv</version>
     </versions>
-    <lastUpdated>20230407034645</lastUpdated>
+    <lastUpdated>20230407040348</lastUpdated>
   </versioning>
 </metadata>
